@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="musicalstore/src"/>
+	<classpathentry kind="lib" path="musicalstore/lib/aspose-cells-20.3.jar"/>
+	<classpathentry kind="lib" path="musicalstore/lib/dom4j-1.6.jar"/>
+	<classpathentry kind="lib" path="musicalstore/lib/itextpdf-5.4.0.jar"/>
+	<classpathentry kind="lib" path="musicalstore/lib/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="musicalstore/lib/poi-ooxml-3.9.jar"/>
+	<classpathentry kind="lib" path="musicalstore/lib/poi-ooxml-schemas-3.9.jar"/>
+	<classpathentry kind="lib" path="musicalstore/lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="musicalstore/bin"/>
+</classpath>
